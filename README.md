@@ -1,2 +1,1 @@
-# experiences
-A demonstration of a React page
+AirBnB experiences, will evolve into a solo project
