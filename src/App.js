@@ -1,10 +1,15 @@
 import React from 'react';
 import logo from './logo.svg';
+import Navbar from './components/navbar';
+import Hero from './components/hero';
 import './App.css';
 
 function App() {
   return (
-    <h1>App Component</h1>
+    <div>
+      <Navbar/>
+      <Hero />
+    </div>
   );
 }
 
